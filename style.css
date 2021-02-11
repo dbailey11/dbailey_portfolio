@@ -263,7 +263,9 @@ table {
 /* ********************************************************** */
 #logo {
   padding: 15px;
+  /* color: #e9d7cd; */
 }
+
 
 #skills {
   background-image: url("assets/images/fieldimg.jpg");
