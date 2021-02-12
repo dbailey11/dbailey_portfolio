@@ -6,7 +6,7 @@ This is an updated portfolio which show cases recent application projects comple
 
 The motivation behind this project is to build a personal brand website to display projects, experience and skills that will enhance and further grow my brand which will enable me to land a web developer position.
 
-Click here to launch portfolio: https://dbailey11.github.io/portfolio/
+Click here to launch portfolio: https://dbailey11.github.io/dbailey_portfolio/
 
 ## Credits
 
